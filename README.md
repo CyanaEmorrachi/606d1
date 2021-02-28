@@ -3,9 +3,9 @@
 
 ## File Structure
 -- data/<br/>
-  -- raw/
-    -- metadata.csv
-    -- README.md
+      -- raw/
+        -- metadata.csv
+        -- README.md
   -- correct/
     -- metadata.csv
     -- README.md
