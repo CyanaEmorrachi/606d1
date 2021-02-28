@@ -2,7 +2,7 @@
 ## This is a template for a simple R project that process PM2.5 data.
 
 ## File Structure
--- data/
+-- data/<br/>
   -- raw/
     -- metadata.csv
     -- README.md
