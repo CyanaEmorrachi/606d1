@@ -3,23 +3,23 @@
 
 ## File Structure
 -- data/<br/>
-      -- raw/
-        -- metadata.csv
-        -- README.md
-  -- correct/
-    -- metadata.csv
-    -- README.md
-  -- tidy/
-    -- metadata.csv
-    -- README.md
--- output/
-  -- figure/
-    -- README.md
-  -- text/
-    -- README.md
--- 01-read.R
--- 02-correct.R
--- 03-tidy.R
--- 04-save.R
--- 05-plot.R
--- README.md
+&nbsp;&nbsp;-- raw/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- metadata.csv<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
+&nbsp;&nbsp;-- correct/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- metadata.csv<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
+&nbsp;&nbsp;-- tidy/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- metadata.csv<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
+-- output/<br/>
+&nbsp;&nbsp;-- figure/<br/>
+&nbsp;&nbsp;-- README.md<br/>
+&nbsp;&nbsp;-- text/<br/>
+&nbsp;&nbsp;-- README.md<br/>
+-- 01-read.R<br/>
+-- 02-correct.R<br/>
+-- 03-tidy.R<br/>
+-- 04-save.R<br/>
+-- 05-plot.R<br/>
+-- README.md<br/>
