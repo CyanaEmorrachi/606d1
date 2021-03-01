@@ -12,6 +12,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;-- tidy/<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- metadata.csv<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- other/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- metadata.csv<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
+-- document/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
 -- output/<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-- figure/<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- README.md<br/>
